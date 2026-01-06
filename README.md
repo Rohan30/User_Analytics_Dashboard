@@ -11,7 +11,8 @@ The analysis is based on **December 2023 data**, with **month-over-month (MoM) c
 
 ## 📌 Dashboard Snapshot
 
-![Web Analytics Dashboard](Web%20Analytics%20Dashboard.png)
+![Web Analytics Dashboard](Web%20Analytics%20Dashboard-%20png.png)
+
 
 ---
 
