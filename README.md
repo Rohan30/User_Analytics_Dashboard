@@ -7,10 +7,6 @@ The dashboard provides a comprehensive view of **user growth, retention, demogra
 
 The analysis is based on **December 2023 data**, with **month-over-month (MoM) comparisons** to highlight performance trends.
 
----
-
-## 📌 Dashboard Snapshot
-
 ![Web Analytics Dashboard](Web%20Analytics%20Dashboard-%20png.png)
 
 
